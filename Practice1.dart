@@ -2,11 +2,11 @@ void main() {
   int age;
 
   if(age > 50){
-    print("Old")
+    print('Old')
   }else if(age > 20){
-    print("Medium")
+    print('Medium')
   }else if(age < 20){
-    print("Yong")
+    print('Yong')
   }
 
 }
